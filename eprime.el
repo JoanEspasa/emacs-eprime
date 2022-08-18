@@ -1,7 +1,7 @@
 ;;; eprime.el --- Support for the Essence Prime modelling language  -*- lexical-binding: t; -*-
 ;;
 ;; Author: Joan Espasa Arxer
-;; Created: 17 Aug 2023
+;; Created: 17 Aug 2022
 ;;
 ;; Keywords: languages
 ;; URL: https://github.com/JoanEspasa/emacs-eprime
